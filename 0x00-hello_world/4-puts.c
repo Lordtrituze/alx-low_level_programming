@@ -1,5 +1,10 @@
 #include <stdio.h>
 
+/**
+ * main - Description for main goes here
+ *
+ * Return: Always 0 (sucess)
+ **/
 
 int main(void)
 {
